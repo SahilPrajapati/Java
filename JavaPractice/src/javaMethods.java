@@ -1,5 +1,5 @@
 
-public class javaMethods {
+class javaMethods {
 
 	//Simple Method
 	int add(int a, int b)
@@ -51,3 +51,4 @@ public class javaMethods {
 	}
 	
 }
+
