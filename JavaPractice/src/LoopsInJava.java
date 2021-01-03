@@ -29,6 +29,7 @@ public class LoopsInJava {
 		{
 			System.out.println(i++);
 		}while(i <= 10);
+		
 	}
 
 }
